@@ -25,9 +25,9 @@
     "uglify-js": "^2.8.29"
   },
   "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
   },
   "peerDependencies": {
-    "react": ">=15",
-    "react-dom": ">=15"
   }
 }
